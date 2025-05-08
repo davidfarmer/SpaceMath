@@ -1,3 +1,7 @@
+
+# This is not the repository you are lookg for:  you want Space_Math
+
+
 # *Space Math* - A Mathematical Notation System & LaTeX Translator 
 
 #### The aim with SpaceMath is to make the *simplest system possible for people to enter (displayable) math into a computer*
